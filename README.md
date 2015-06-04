@@ -12,3 +12,7 @@ decided to start collecting some of them, so I don't forget (something I tend to
    [Erdős–Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number),
    start calculating rappers' "Dre numbers" (or some other artist with a lot of
    collaborations across some length of time).
+ - Explore what a functional language would look like when:
+    - Datatypes can only be a single constructor or a combination of zero or more other datatypes.
+    - Typeclasses can only be a single method or a combination of zero or more other typeclasses.
+    - There are union types (who knows, we could even get crazy and have infinite types) as well as (instead of..?) sum types, "difference" types and so on.
